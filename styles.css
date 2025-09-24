@@ -1,8 +1,23 @@
 body {
     background: salmon;
-    font-family: "Comic Sans MS";
+    font-family: cursive, "Comic Sans MS", "Comic Sans", serif;
+    margin:40px;
 }
 h1 {
     color:cyan;
     text-align:center;
+}
+h2 {
+    color:blueviolet;
+    text-align:center;
+}
+p{
+    color:chartreuse;
+    text-align:right;
+}
+ul {
+    color:gainsboro;
+}
+ol {
+    color:chocolate;
 }
