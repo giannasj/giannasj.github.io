@@ -15,9 +15,7 @@ p{
     color:chartreuse;
     text-align:right;
 }
-ul {
-    color:gainsboro;
-}
-ol {
-    color:chocolate;
-}
+ul {color:gainsboro;}
+.chocolate {color:chocolate;}
+.left {text-align:left;}
+.attention{font-weight:bold;}
