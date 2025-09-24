@@ -1,0 +1,12 @@
+/*element selector applies to all elements of the selected type*/
+p {
+    text-align:center ; color:red;
+}
+/*ID selectors only apply to elements with a specific ID*/
+#para1 {
+    text-align:center; color:blue;
+}
+/*class selectors apply to all elements (can be different kinds) with a specific class*/
+.center {
+    text-align:center; color:green;
+}
