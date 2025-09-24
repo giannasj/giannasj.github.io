@@ -1,14 +1,8 @@
-/*colors can have a name (predefined) or use hex values #RRGGBB*/
-
-/*element selector applies to all elements of the selected type*/
-p {
-    text-align:center ; color:red;
+body {
+    background: salmon;
+    font-family: "Comic Sans MS";
 }
-/*ID selectors only apply to elements with a specific ID*/
-#para1 {
-    text-align:center; color:blue;
-}
-/*class selectors apply to all elements (can be different kinds) with a specific class*/
-.center {
-    text-align:center; color:salmon;
+h1 {
+    color:cyan;
+    text-align:center;
 }
