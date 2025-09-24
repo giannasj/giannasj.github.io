@@ -1,6 +1,8 @@
+/*colors can have a name (predefined) or use hex values*/
+
 /*element selector applies to all elements of the selected type*/
 p {
-    text-align:center ; color:salmon;
+    text-align:center ; color:red;
 }
 /*ID selectors only apply to elements with a specific ID*/
 #para1 {
@@ -8,5 +10,5 @@ p {
 }
 /*class selectors apply to all elements (can be different kinds) with a specific class*/
 .center {
-    text-align:center; color:green;
+    text-align:center; color:salmon;
 }
