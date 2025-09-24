@@ -1,6 +1,6 @@
 /*element selector applies to all elements of the selected type*/
 p {
-    text-align:center ; color:red;
+    text-align:center ; color:salmon;
 }
 /*ID selectors only apply to elements with a specific ID*/
 #para1 {
