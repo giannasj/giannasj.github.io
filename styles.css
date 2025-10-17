@@ -16,10 +16,19 @@ p{
     text-align:right;
 }
 ul {color:gainsboro;}
-.chocolate {color:chocolate;}
 .left {text-align:left;}
 .attention{font-weight:bold;}
 .about {background:#00b3d1;}
 .skills{font-family:cursive;}
-.projects{text-align:center; background:whitesmoke;}
+.projects{
+    display: flex;
+    flex-wrap:wrap;
+}
+.project{
+    width:30%;
+    margin:10 px;
+    padding: 20 px 10 px;
+    background:white;
+    border-radius:25;
+}
 .contact{text-align:center; background:greenyellow;}
