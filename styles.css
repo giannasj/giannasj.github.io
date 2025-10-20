@@ -1,24 +1,23 @@
 body {
-    background: salmon;
+    background: white;
     font-family: "Times New Roman";
     margin:40px;
 }
 h1 {
-    color:cyan;
-    text-align:center;
+    color:black;
 }
 h2 {
-    color:blueviolet;
-    text-align:center;
+    color:black;
 }
 p{
-    color:chartreuse;
-    text-align:right;
+    color:black;
+    margin:20px;
 }
-ul {color:gainsboro;}
 .left {text-align:left;}
+.center {text-align:center;}
+.right {text-align:right;}
 .attention{font-weight:bold;}
-.about {background:#00b3d1;}
+.about {background:#695240;}
 .projects{
     display: flex;
     flex-wrap:wrap;
