@@ -19,7 +19,6 @@ ul {color:gainsboro;}
 .left {text-align:left;}
 .attention{font-weight:bold;}
 .about {background:#00b3d1;}
-.skills{font-family:cursive;}
 .projects{
     display: flex;
     flex-wrap:wrap;
