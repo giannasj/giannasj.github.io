@@ -1,6 +1,6 @@
 body {
     background: salmon;
-    font-family: cursive, "Times New Roman", "Comic Sans", serif;
+    font-family: cursive, "Times New Roman", Times, serif;
     margin:40px;
 }
 h1 {
