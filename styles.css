@@ -25,7 +25,11 @@ p{
     background:#6b81b5;
     border-radius:10%;
 }
-.contact{text-align:center; background:greenyellow;}
+.contact{
+    text-align:center; 
+    padding:10px;
+    background:greenyellow;
+}
 .black{color:black;}
 .white{color:white;}
 img{
