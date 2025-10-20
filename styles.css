@@ -3,31 +3,40 @@ body {
     font-family: "Times New Roman";
     margin:40px;
 }
-h1 {
-    color:black;
-}
-h2 {
-    color:black;
-}
 p{
-    color:black;
     margin:20px;
 }
 .left {text-align:left;}
 .center {text-align:center;}
 .right {text-align:right;}
 .attention{font-weight:bold;}
-.about {background:#797470;}
+.about {
+    display: flex;
+    flex-wrap:wrap;
+}
 .projects{
     display: flex;
     flex-wrap:wrap;
 }
 .project{
     width:30%;
-    margin:10 px;
-    padding: 20 px 10 px;
-    background:#797470;
+    margin:10px;
+    padding:10px;
+    background:#6b81b5;
     border-radius:10%;
 }
 .contact{text-align:center; background:greenyellow;}
 .black{color:black;}
+.white{color:white;}
+img{
+    display:block;
+    margin:auto;
+}
+.intro{
+    width:47%;
+    margin:10px;
+    padding:10px;
+    background:#6b81b5;
+    border-radius:1%;
+    color:white;
+}
