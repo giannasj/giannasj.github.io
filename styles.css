@@ -44,3 +44,7 @@ img{
     border-radius:1%;
     color:white;
 }
+.title{
+    text-align:center;
+    background:rgb(188, 186, 186);
+}
