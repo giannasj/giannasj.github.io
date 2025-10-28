@@ -32,10 +32,6 @@ p{
 }
 .black{color:black;}
 .white{color:white;}
-img{
-    display:block;
-    margin:auto;
-}
 .intro{
     width:47%;
     margin:10px;
@@ -47,4 +43,23 @@ img{
 .title{
     text-align:center;
     background:#777373;
+}
+.project img{
+    width: 300px;
+    height: 300px;
+    margin: 10px;
+    border: 2px solid rgb(0, 0, 0);
+    display: block;
+    margin: auto;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.project p {
+    color:white;
+    text-align:center;
+    margin:15px;
 }
