@@ -1,0 +1,34 @@
+.title{
+    text-align: center;
+}
+
+.section{
+    padding-top:7px;
+    padding-bottom:7px;
+    table{
+        border-collapse:collapse;
+        width:100%;
+    }
+    tr{
+        columns:2;
+    }
+}
+
+.header{
+    border-bottom:2pt solid black;
+    text-align:left;
+}
+
+body{
+    padding-left:2%;
+    padding-right:2%;
+}
+
+.left{
+    text-align: left;
+}
+
+.right{
+    text-align: right;
+}
+
