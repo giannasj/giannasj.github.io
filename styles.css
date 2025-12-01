@@ -8,9 +8,7 @@ a {
     color: black;
 }
 
-.title{
-    text-align:center;
-}
+.title{text-align:center;}
 
 .intro{
     width:47%;
@@ -66,5 +64,7 @@ a {
 .contact{
     text-align:center; 
     padding:10px;
-    background:greenyellow;
+    background:#6b81b5;
+    h2{text-decoration:underline;}
+    p{color:white;}
 }
